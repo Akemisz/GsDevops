@@ -1,5 +1,4 @@
-# GS-Java
-Repositório destinado para GS de Java
+# GS Devops
 
 ## Integrantes
 
@@ -28,9 +27,8 @@ https://gsjava-production.up.railway.app/docs
 dentro da pasta documento está o documento do projeto com todas as informações do sistema 
 
 ## Video da solução
-Video Pitch
 
-https://youtu.be/v3IgsRQf_jY
+Video Pitch https://youtu.be/v3IgsRQf_jY
 
-Video da explicacão da API de Java 
+Video da explicacão https://youtu.be/g656qorCCEo
 
