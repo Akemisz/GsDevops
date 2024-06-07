@@ -1,0 +1,8 @@
+services:
+  web:
+    image: Dockerfile
+    ports:
+      - 8080:8080
+    scale: 1
+    env:
+      JAVA_OPTS: "-Xmx512m"
